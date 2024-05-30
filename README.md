@@ -1,2 +1,2 @@
 # gestionCabinetMedicale
-back: springboot , front: angular
+back: springboot
